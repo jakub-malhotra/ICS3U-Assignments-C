@@ -1,7 +1,6 @@
-<h1> # ICS3U-Assignments-C </h1> 
-<h2> All of my C assignments in ICS3U</h2>
+<h1> All of my C assignments in ICS3U</h1>
 
-<h2>To compile a C program if the CS50's C Library is used</h>  
+<h2>To compile a C program if the CS50's C Library is used</h2>  
 
   gcc ./Main.c -o ./ Main.app -lcs50  
 
