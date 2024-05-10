@@ -25,7 +25,7 @@ int main() {
         printf("%d = %d", numberOne, numberTwo);
     }
 
-printf("\n");
+    printf("\n");
     printf("\nDone.\n");
     return 0;
 }
